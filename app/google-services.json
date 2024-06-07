@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "879863072829",
+    "project_id": "bio-data-2bac1",
+    "storage_bucket": "bio-data-2bac1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879863072829:android:e522008e2cd7546b6f0254",
+        "android_client_info": {
+          "package_name": "com.atr.atr_health"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTaNeZ9zWFhZJJzjt0Dn8jXriMjc3-pK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

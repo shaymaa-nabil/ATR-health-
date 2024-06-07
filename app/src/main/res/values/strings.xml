@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ATR-Health</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="icon">Icon</string>
+    <string name="null_data">--</string>
+    <string name="not_available">Not Available on this device.</string>
+    <string name="acquiring">Acquiring Heart Rate</string>
+    <string name="hello_world">From the Square world,\nHello, %1$s!</string>
+</resources>
